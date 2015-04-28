@@ -1,0 +1,15 @@
+﻿Compilación iniciada a las 28/04/2015 12:22:53.
+     1>Proyecto "D:\Users\aleixbf\Desktop\PracticaArbre\UnitTestTree\UnitTestTree.vcxproj" en el nodo 3 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\UnitTestTree.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt unittestTree.cpp
+         unittestTree.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\aleixbf\Desktop\PracticaArbre\Debug\UnitTestTree.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\aleixbf\Desktop\PracticaArbre\Debug\UnitTestTree.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\aleixbf\Desktop\PracticaArbre\Debug\UnitTestTree.lib" /MACHINE:X86 /DLL Debug\stdafx.obj
+         Debug\unittestTree.obj
+            Creando biblioteca D:\Users\aleixbf\Desktop\PracticaArbre\Debug\UnitTestTree.lib y objeto D:\Users\aleixbf\Desktop\PracticaArbre\Debug\UnitTestTree.exp
+         UnitTestTree.vcxproj -> D:\Users\aleixbf\Desktop\PracticaArbre\Debug\UnitTestTree.dll
+     1>Compilación del proyecto terminada "D:\Users\aleixbf\Desktop\PracticaArbre\UnitTestTree\UnitTestTree.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.41

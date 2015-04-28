@@ -1,0 +1,13 @@
+CodeStyle for Aleix Bueso.
+
+File Name:
+- PascalCalse
+
+Variables:
+- snake_case
+
+Class Names:
+- PascalCase
+
+Method:
+- PascalCase

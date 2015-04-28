@@ -1,0 +1,14 @@
+﻿Compilación iniciada a las 28/04/2015 12:22:53.
+     1>Proyecto "D:\Users\aleixbf\Desktop\PracticaArbre\PracticaArbre\PracticaArbre.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\aleixbf\Desktop\PracticaArbre\Debug\PracticaArbre.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\aleixbf\Desktop\PracticaArbre\Debug\PracticaArbre.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\aleixbf\Desktop\PracticaArbre\Debug\PracticaArbre.lib" /MACHINE:X86 Debug\Main.obj
+         Debug\Stack.obj
+         PracticaArbre.vcxproj -> D:\Users\aleixbf\Desktop\PracticaArbre\Debug\PracticaArbre.exe
+     1>Compilación del proyecto terminada "D:\Users\aleixbf\Desktop\PracticaArbre\PracticaArbre\PracticaArbre.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.50
